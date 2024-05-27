@@ -124,14 +124,14 @@ body {
   height: 14px;
   font-size: 0;
   background-color: #fff;
-  border: 1px solid #86c3fa;
+  border: 1px solid #ef9ac6;
   border-radius: 8px;
 }
 
 .level div {
   margin: 1px;
   height: 12px;
-  background-color: #288be6;
+  background-color: #d0697b;
   border-radius: 6px;
 }
 
@@ -165,13 +165,13 @@ body {
   text-decoration: none;
   text-transform: uppercase;
   border-radius: 4px;
-  background-color: #288be6;
+  background-color: #d0697b;
   color: #fff;
 }
 
 .page-footer {
   padding: 40px 0;
-  background-color: #00417d;
+  background-color: #d0697b;
 }
 
 .page-footer a {
