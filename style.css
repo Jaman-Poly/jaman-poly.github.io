@@ -6,7 +6,7 @@ body {
   line-height: 32px;
   color: #222;
   background-color: #fdf2f8;
-  background-image: url("img/hero-bg.jpg" style="height: 400px;");
+  background-image: url("img/hero-bg.jpg");
   background-repeat: no-repeat;
   background-position: top center;
 }
