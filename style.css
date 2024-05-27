@@ -7,7 +7,7 @@ background-image: url("img/hero-bg.jpg");body {
   color: #222;
   background-color: #fdf2f8;
   background-image: url("img/hero-bg.jpg");
-  height: 500vh;
+  height: 500px;
   background-repeat: no-repeat;
   background-position: top center;
 }
